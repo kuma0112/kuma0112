@@ -1,16 +1,49 @@
-## Hi there 👋
+# 저를 소개해요 👋
+안녕하세요! **협업을 통해 더 나은 결과를 만들어가는 백엔드 개발자, 이신지**입니다.  
+다양한 케이스를 고려하여 기능을 완성도 높게 제작합니다. 효율적인 데이터 처리를 통해 사용자 경험을 극대화하고자 합니다.  
+- 쿼리를 개선하기 위해 **실행 계획을 분석하며 성능 최적화를 위해 노력**합니다.
+- **다양한 방어 로직을 설계**하여 시스템을 안정적으로 운영하고자 합니다. 
+- 꾸준히 **코드 리뷰**를 진행하며, 기술 블로그 활동을 통해 얻은 지식을 팀원들과 공유하여 협업의 질을 높이고 프로젝트의 완성도를 강화합니다.
 
-<!--
-**kuma0112/kuma0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 기술 스택 🚀
+**Backend:** Java, Spring Boot, Spring Security, JPA, MySQL, Redis  
+**DevOps:** AWS (EC2, RDS, Elasticache, S3), GitHub Actions  
+**Collaboration:** GitHub, Slack, JIRA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 이런 일을 했어요 💼
+
+- **멍티비티: 강아지 동반 시설 공유 플랫폼** *(2024.11 ~ 현재)*  
+  - **Jooq**를 활용하여 다양한 검색을 재사용 가능하고 동적으로 구현  
+  - 검색 쿼리 개선 및 인덱싱으로 성능 최적화 (1초 → 0.183초)
+  - **LG U+ 유레카 1기 백엔드 비대면 최종 프로젝트 우수상** 수상  
+
+- **아이북조아: MBTI 기반 책 추천 시스템** *(2024.10 ~ 2024.11)*  
+  - Spring Batch와 JDBC를 활용해 **10만 회원 책 추천 7분 22초에 처리**  
+  - 성능 테스트 및 테스트 코드 작성을 통한 배치 로직 신뢰도 향상  
+  - **LG U+ 유레카 1기 백엔드 비대면 종합 프로젝트 최우수상** 수상
+ 
+- **129CM: 쇼핑몰 클론 프로젝트** *(2024.05 ~ 2024.09)*
+  - **다양한 엣지 케이스를 고려한 단위 테스트**를 작성하여 신뢰성 높은 코드를 작성 ([읽어보기](https://kmcp.tistory.com/70))
+  - 서비스와 매니저 계층 분리를 통해 단일 책임 원칙을 준수하며, 테스트의 독립성과 코드의 재사용성을 강화
+
+- **E-Room: 학습 챌린지 커뮤니티** *(2024.01 ~ 2024.04)*  
+  - 검색 기능 개선: JPQL like 검색을 Elasticsearch로 전환하여 **응답 시간 91.6% 개선** (1008ms → 84ms) ([읽어보기](https://kmcp.tistory.com/55))
+  - Redis를 활용한 채팅 데이터 관리: RDB와 AOF 설정으로 데이터 복구 용이성 향상 ([읽어보기](https://kmcp.tistory.com/49))
+
+---
+
+# 기타 🌟
+- LG U+ 유레카 1기 백엔드 비대면 수료 및 **최우수훈련생 수상**  
+- 항해99 18기 수료
+- GitHub와 JIRA를 활용한 체계적인 프로젝트 관리  
+- **코드 리뷰**를 통한 코드 품질 지속적 향상  
+
+---
+
+## 📫 연락처
+**이메일:** lsj23871@gmail.com  
+**블로그:** [https://kmcp.tistory.com/](https://kmcp.tistory.com/)  
